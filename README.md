@@ -1,4 +1,4 @@
 # CMS-Case-Study
-## This project consist of three files. out of whitch two files are pdf files and one is jupyter notebook. 
-## PDF file contain recommendations for sales team. 
-## Jupyter file contain Code for the given requirements.
+## This project consists of three files. out of which two files are PDF files and one is a Jupyter notebook. 
+## PDF file contains recommendations for the sales team. 
+## Jupyter file contains Code for the given requirements.
